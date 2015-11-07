@@ -1,19 +1,2562 @@
-a
-b
-c
-d
-e
-r
-t
-y
-u
-u
-i
-o
-j
-n
-g
- 
-da
-w
-r
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###
+BadCopy Pro
+Copyright (C) 1997-2007 Jufsoft
+Web: http://www.jufsoft.com
+Developer: Liang Ren
+
+All Rights Reserved
+
+*** LICENSE AGREEMENT ***
+
+This license applies to the evaluation version of BadCopy.  If you
+are using a registered version of BadCopy, see the section titled 
+"Registered Version" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+
+*** EVALUATION LICENSE ***
+
+The following license applies to the evaluation version of BadCopy.
+If you have purchased a license for the registered version of
+BadCopy, see the section "REGISTERED VERSION" below.
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Jufsoft. your use of this software indicates 
+your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+
+This is not free software.  Subject to the terms below, you are
+hereby licensed to use this software for evaluation purposes
+without charge but it has features limit.
+
+If you find this program useful and want to use its full features, 
+you must make a registration payment.  This registration fee will 
+license one user to use one copy of BadCopy on any one computer at
+any one time.  
+
+All users will receive registration key and a copy of the latest 
+release when they register, or it will be made available for 
+downloading, and free technical support.
+
+
+Distribution of Evaluation Version
+
+You are granted unlimited rights to distribute the unregistered
+version of BadCopy Pro subject to, but not limited to, the following
+terms: BadCopy Pro may not be sold or resold, distributed as a part 
+of any commercial package, used in a commercial environment, used 
+or distributed in support of a commercial service, or used or 
+distributed to support any kind of profit-generating activity, 
+even if it is being distributed freely. All files must remain intact
+and unmodified from the original as distributed by Jufsoft.
+
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+*** REGISTERED VERSION ***
+
+One registered copy (single user license) of BadCopy may be used 
+by a single person who uses the software personally on one or more 
+computers.
+
+The SOFTWARE is licensed as a single product, to an individual user, 
+or group of users for Multiple User Licenses and Site Licenses.  
+This Agreement requires that each user of the SOFTWARE be Licensed, 
+either individually, or as part of a group.  A Multi-User License 
+provides for a specified number of users to use this SOFTWARE at 
+any time.  This does not provide for concurrent user Licensing unless 
+specifically agreed upon and ordered as such at an additional cost 
+above the normal licensing fee.  Each user of this SOFTWARE must be 
+covered either individually, or as part of a group Multi-User License.  
+The SOFTWARE is in use on a computer when it is loaded into the 
+temporary memory (i.e. RAM) or installed into the permanent memory 
+(e.g. hard disk) of that computer.  This software may be installed 
+on a network provided that appropriate restrictions are in place 
+limiting the use to registered users only.
+
+You must not redistribute the registration codes or full version 
+provided, either on paper, electronically, or as stored in the files.
+You may not rent or lease the SOFTWARE
+
+The SOFTWARE is protected by United States Of America copyright laws 
+and international treaty provisions.  All Intellectual Property Rights 
+(IPR) remain the property of Jufsoft.
+
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the
+various hardware and software environments into which BadCopy 
+may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on it.
+The user must assume the entire risk of using the program.  ANY
+LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT
+REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+
+###

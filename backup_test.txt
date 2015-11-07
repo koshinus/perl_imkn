@@ -1,0 +1,4 @@
+C:\perl\Strawberry\programs
+C:\GCC\OpenBLAS\OpenBLAS-v0.2.14-Win64-int64
+C:\GCC\OpenBLAS\OpenBLAS-win32
+C:\GCC\OpenBLAS\OpenBLAS-win64-32

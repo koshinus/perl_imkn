@@ -3,9 +3,17 @@ use strict;
 
 sub output($$)
 {
-	print rev_pol_not($_[0]);
-	print "\n";
-	print eval($_[0]);
+	eval($_[0]);
+	if($@)
+	{
+		print $@;
+	}
+	else
+	{
+		print rev_pol_not($_[0]);
+		print "\n";
+		print calc_rev_pol(rev_pol_not($_[0]));
+	}
 }
 
 sub priority
@@ -55,6 +63,83 @@ sub rev_pol_not
 	while(@list!=0)
 		{$resStr = $resStr." ".pop(@list);}
 	return $resStr;
+}
+
+sub bracket
+{
+	my ($bracket) = @_;
+	if($bracket eq "(") 		{return ")";}
+	elsif ($bracket eq "[") 	{return "]";}
+	elsif ($bracket eq "{") 	{return "}";}
+	elsif ($bracket eq "<") 	{return ">";}
+}
+
+sub brackets_balance
+{
+	my ($str) = @_;
+	my @arr = split(//,$str);
+	my @brackets = ();
+	my @position = ();
+	my $i = 0;
+	foreach our $symbol(@arr)
+	{
+		if($symbol eq "(" || $symbol eq "[" || $symbol eq "{" || $symbol eq "<")
+		{
+			push(@brackets, $symbol);
+			push(@position, $i);
+		}
+		elsif($symbol eq ")" || $symbol eq "]" || $symbol eq "}" || $symbol eq ">")
+		{
+			if(@brackets != 0)
+			{
+				if(bracket($symbol) eq $brackets[-1])
+				{
+					pop(@brackets);
+					pop(@position);
+				}
+				else
+				{
+					return "Error in ".pop(@position)." position: closing bracket is not right!";
+				}
+			}
+			else
+			{
+				return "Error in ".$i." position: closing brackets are more than opening!";
+			}
+		}
+	$i++;
+	}
+	return "All brackets are placed correctly.";
+}
+
+sub calc_rev_pol
+{
+	my ($str) = @_;
+	my @arr = $str =~ m{ (\d+[.]?\d*) | ([-/*,()+]) }gx;
+	my @arr = reverse(@arr);
+	my @stack = ();
+	while(@arr != 0)
+	{
+		my $elem = pop @arr;
+		#print "\n".$elem;
+		if($elem eq "+" || $elem eq "-" || $elem eq "*" || $elem eq "/")
+		{
+			#print "__1";
+			my $first = pop(@stack);
+			my $second = pop(@stack);
+			push(@stack, eval($second.$elem.$first));
+		}
+		elsif($elem eq "")
+		{
+			#print "__2";
+		}
+		else 
+		{
+			#print "__3";
+			push(@stack, $elem);
+		}
+	}
+	return pop(@stack);
 }
 
 my($arg1,$arg2) = ($ARGV[0],$ARGV[1]);
