@@ -9,9 +9,9 @@ sub main($$)
 sub emails_check
 {
 	my ($file) = @_;
-	our %hash = ();
 	open FILE, $file
 		or die "Failed to open $file: $!\n";
+=pod
 	our $username = "[0-9a-z-!#$%&'*+—/=?^`{|}~]+(\.[0-9a-z-!#$%&'*+—/=?^`{|}~]+)*";
 	our $hostname = "([0-9a-z]([0-9a-z-]{0..61}[0-9a-z])?\.)*(([a-z]{2,})|(xn--[0-9a-z]+)|xn--vermgensberater-ctb|xn--vermgensberatung-pwb)";
 	while(our $line = <FILE>)
@@ -19,9 +19,15 @@ sub emails_check
 		@pair = $line ~= m{($username\@$hostname) | ($hostname)}gx;
 		$hash{$pair[0]} = $pair[1];
 	}
-	while(my ($key,$value) = each %hash)
+=cut
+	while(our $line = <FILE>)
 	{
-		print "$key -> $value";
+		$line =~ /mailto:(\w+\@\w+.\w+)\">(\w+)</;
+		if($1 ne "")
+		{
+			print "$1->$2";
+			print "\n";
+		}
 	}
 }
 

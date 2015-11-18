@@ -1,17 +1,18 @@
 use strict;
 use warnings;
-use IO::Handle;
+#use IO::Handle;
 
 sub main($$)
 {
 	id3v1_extract($_[0]);
-	print "\nWrite what do you want to change in this form:\n";
+	print "\nWrite what do you want to change in this form: ";
 	print "Album/Year/Genre/etc-\"your change\"";
-	STDIN->autoflush;
-	STDOUT->autoflush;
-	STDERR->autoflush;
-	my $str = <>;
-	print "You write ".$str;
+	#STDIN->autoflush;
+	#STDOUT->autoflush;
+	#STDERR->autoflush;
+	my $str = <STDIN>;
+	#print "You write ".$str;
+	print "\n\n";
 	id3v1_rewrite($_[0],$str);
 }
 
@@ -58,7 +59,9 @@ sub id3v1_rewrite
 	read(IN, $buf, $file_size - $cur_pos - 125);
 	print OUT $buf;
 	read(IN, $buf, 125);
+	#print $buf;
 	our @array = split(/-/, $str);
+	$array[1] = substr($array[1], 0, 4);
 	if($array[0] eq 'Song title')
 	{
 		$buf = $array[1].substr($buf, 30);
@@ -75,7 +78,7 @@ sub id3v1_rewrite
 	{
 		$buf = substr($buf, 0, 90).$array[1].substr($buf, 94);
 	}
-	elsif($array[0] eq 'Year')
+	elsif($array[0] eq 'Comment')
 	{
 		$buf = substr($buf, 0, 94).$array[1].substr($buf, 124);
 	}
@@ -86,6 +89,7 @@ sub id3v1_rewrite
 	print OUT $buf;
 	close(OUT);
 	close(IN);
+	id3v1_extract("new_".$file);
 }
 
 my($arg1,$arg2) = ($ARGV[0],$ARGV[1]);

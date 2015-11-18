@@ -20,10 +20,13 @@ sub main($$)
 	#print "$^O\n";
 	#print $symbol;
 	our @DIRLIST = file_parser($_[0]);
+	chop @DIRLIST;
 	our $target_dir = $DIRLIST[0];
 	#print $target_dir;
 	#print @DIRLIST;
 	@DIRLIST = @DIRLIST[ 1 .. $#DIRLIST ];
+	#print -e $target_dir;
+	#chop $target_dir;
 	opendir (my $out_d, $target_dir) || die "Impossi, bro: $!";
 	if(-e "old" && -d "old")
 	{
@@ -99,11 +102,14 @@ sub copy_file
 {
 	my ($file1, $file2) = @_;
 	open(in_file, "< $file1") or die "Impossi, bro: $!";
+	binmode(in_file);
 	open(out_file,"> $file2") or die "Impossi, bro: $!";
-	while(our $line = <in_file>) 
-	{
-		print out_file $line;
-	}
+	binmode(out_file);
+	our $buf;
+	while(read(in_file, $buf, 1024))
+    {
+		print out_file $buf;
+    }
 	close in_file;
 	close out_file;
 }

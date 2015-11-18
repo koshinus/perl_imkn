@@ -9,7 +9,7 @@ push(@list, 10,1,2,3);
 
 sub why_not
 {
-	my($arg1, $arg2) = @_;
+	my($arg1, @other_args) = @_;
 	#my @array = split(/(\d+)|((\d+)\.?(\d*))/, $arg1);
 	#my @array = $arg1 =~ /(\d+)|((\d+)\.?(\d*))/g;
 	#my @array = $arg1 =~/([\d\.]+) | \Q \-\*\/\(\) \E /g;
@@ -51,12 +51,10 @@ sub why_not
 		print "\n";
 	}
 =cut
-	print 'Введите, сумму в рублях: ';
-	my $s = <>;
-	print 'Результат ввода: ' . $s;
+	print @other_args;
 }
 
-why_not($ARGV[0],$ARGV[1]);
+why_not(@ARGV);
 
 sub sum
 {
