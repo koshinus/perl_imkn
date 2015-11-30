@@ -1,15 +1,11 @@
 use strict;
 use warnings;
-#use IO::Handle;
 
 sub main($$)
 {
 	id3v1_extract($_[0]);
 	print "\nWrite what do you want to change in this form: ";
 	print "Album/Year/Genre/etc-\"your change\"";
-	#STDIN->autoflush;
-	#STDOUT->autoflush;
-	#STDERR->autoflush;
 	my $str = <STDIN>;
 	#print "You write ".$str;
 	print "\n\n";
@@ -59,37 +55,51 @@ sub id3v1_rewrite
 	read(IN, $buf, $file_size - $cur_pos - 125);
 	print OUT $buf;
 	read(IN, $buf, 125);
-	#print $buf;
 	our @array = split(/-/, $str);
-	$array[1] = substr($array[1], 0, 4);
+	$array[1] = substr($array[1], 0, length($array[1]) - 1);
 	if($array[0] eq 'Song title')
 	{
-		$buf = $array[1].substr($buf, 30);
+		$buf = make_buf($buf, $array[1], 30, 0, 30);
 	}
 	elsif($array[0] eq 'Artist')
 	{
-		$buf = substr($buf, 0, 30).$array[1].substr($buf, 60);
+		$buf = make_buf($buf, $array[1], 30, 30, 60);
 	}
 	elsif($array[0] eq 'Album')
 	{
-		$buf = substr($buf, 0, 60).$array[1].substr($buf, 90);
+		$buf = make_buf($buf, $array[1], 30, 60, 90);
 	}
 	elsif($array[0] eq 'Year')
 	{
-		$buf = substr($buf, 0, 90).$array[1].substr($buf, 94);
+		$buf = make_buf($buf, $array[1], 4, 90, 94);
 	}
 	elsif($array[0] eq 'Comment')
 	{
-		$buf = substr($buf, 0, 94).$array[1].substr($buf, 124);
+		$buf = make_buf($buf, $array[1], 30, 94, 124);
 	}
 	elsif($array[0] eq 'Genre')
 	{
-		$buf = substr($buf, 0, 124).$array[1];
+		$buf = make_buf($buf, $array[1], 1, 124, 125);
 	}
 	print OUT $buf;
 	close(OUT);
 	close(IN);
 	id3v1_extract("new_".$file);
+}
+
+sub make_buf
+{
+	my ($buf, $str, $len, $left, $right) = @_;
+	my $arr_len = length($str);
+	if($arr_len > $len)
+	{
+		$buf = substr($buf, 0, $left).substr($str, 0, $len).substr($buf, $right);
+	}
+	else
+	{
+		$buf = substr($buf, 0, $left).$str." "x($len-$arr_len).substr($buf, $right);
+	}
+	return $buf;
 }
 
 my($arg1,$arg2) = ($ARGV[0],$ARGV[1]);

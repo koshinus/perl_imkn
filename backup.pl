@@ -20,7 +20,13 @@ sub main($$)
 	#print "$^O\n";
 	#print $symbol;
 	our @DIRLIST = file_parser($_[0]);
-	chop @DIRLIST;
+	@DIRLIST = map { (my $s = $_) =~ s/([^\n])\n/$1/g; $s} @DIRLIST;
+	foreach my $elem (@DIRLIST)
+	{
+		print $elem;
+		#print "\n";
+	}
+	#chop @DIRLIST[0..$#DIRLIST-1];
 	our $target_dir = $DIRLIST[0];
 	#print $target_dir;
 	#print @DIRLIST;

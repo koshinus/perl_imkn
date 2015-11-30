@@ -2,6 +2,12 @@
 use strict;
 use warnings;
 
+my $st = "dsfdshfgds\whwenc//efiheiuf";
+#$st =~ s/\+(\d)/$1/g;
+$st =~ s/([^\n])\n/$1/g;
+print $st;
+
+__END__
 my @list = ();
 push(@list, 10,1,2,3);
 #print @list[-1];

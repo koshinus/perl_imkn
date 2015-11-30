@@ -1,5 +1,5 @@
 use strict;
-use warnings;
+#use warnings;
 
 sub main($$)
 {
@@ -22,9 +22,11 @@ sub emails_check
 =cut
 	while(our $line = <FILE>)
 	{
+		#$line =~ /mailto:(\w+)\@(\w+.\w+)\">$1</;
 		$line =~ /mailto:(\w+\@\w+.\w+)\">(\w+)</;
 		if($1 ne "")
 		{
+			#print "$1\@$2->$1";
 			print "$1->$2";
 			print "\n";
 		}
