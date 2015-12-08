@@ -98,26 +98,40 @@ sub copy_dir_recur
 sub file_parser
 {
 	my ($file) = @_;
-	open(in_file, "< $file") or die "Impossi, bro: $!";
-	my @LIST = <in_file>;
-	close(in_file);
-	return @LIST;
+	if(not -e $file or not -f $file) 
+	{
+		die "File $file does not exist, or not a file!"
+	}
+	else
+	{
+		open(in_file, "< $file") or die "Impossi, bro: $!";
+		my @LIST = <in_file>;
+		close(in_file);
+		return @LIST;
+	}
 }
 
 sub copy_file
 {
 	my ($file1, $file2) = @_;
-	open(in_file, "< $file1") or die "Impossi, bro: $!";
-	binmode(in_file);
-	open(out_file,"> $file2") or die "Impossi, bro: $!";
-	binmode(out_file);
-	our $buf;
-	while(read(in_file, $buf, 1024))
-    {
-		print out_file $buf;
-    }
-	close in_file;
-	close out_file;
+	if(not -e $file1 or not -f $file1 or not -e $file2 or not -f $file2)
+	{
+		die "Files $file1 or $file2 does not exist, or not a files!"
+	}
+	else
+	{
+		open(in_file, "< $file1") or die "Impossi, bro: $!";
+		binmode(in_file);
+		open(out_file,"> $file2") or die "Impossi, bro: $!";
+		binmode(out_file);
+		our $buf;
+		while(read(in_file, $buf, 1024))
+		{
+			print out_file $buf;
+		}
+		close in_file;
+		close out_file;
+	}
 }
 
 my($arg1,$arg2) = ($ARGV[0],$ARGV[1]);

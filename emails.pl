@@ -23,8 +23,8 @@ sub emails_check
 	while(our $line = <FILE>)
 	{
 		#$line =~ /mailto:(\w+)\@(\w+.\w+)\">$1</;
-		$line =~ /mailto:(\w+\@\w+.\w+)\">(\w+)</;
-		if($1 ne "")
+		$line =~ /mailto:(\w+\@\w+\.\w+)\">(\w+)</;
+		if(not $1 =~ "")
 		{
 			#print "$1\@$2->$1";
 			print "$1->$2";

@@ -43,19 +43,30 @@ sub id3v1_rewrite
 	binmode(IN);
 	open(OUT, '>', "new_".$file) or die "Can't write new file: $!";
 	binmode(OUT);
-	our $buf;
-	my $cur_pos = 0;
-	my $file_size = -s $file;
-	while($file_size - $cur_pos > 1024)
-    {
-		read(IN, $buf, 1024);
-		print OUT $buf;
-		$cur_pos+=1024;
-    }
-	read(IN, $buf, $file_size - $cur_pos - 125);
-	print OUT $buf;
-	read(IN, $buf, 125);
-	our @array = split(/-/, $str);
+	my $buf;
+	my $str1 = "";
+	while(read(IN, $buf, 1))
+	{
+		if(length($str1) < 3)
+		{
+			print OUT $buf;
+			$str1 .= $buf;
+		}
+		elsif($str1 =~ 'TAG')
+		{
+			last;
+		}
+		else
+		{
+			$str1 = substr($str1, 1).$buf;
+			print OUT $buf;
+		}
+	}
+	read(IN, $str1, 124);
+	$buf .= $str1;
+	#print length($buf);
+	#print $buf;
+	my @array = split(/-/, $str);
 	$array[1] = substr($array[1], 0, length($array[1]) - 1);
 	if($array[0] eq 'Song title')
 	{
@@ -104,3 +115,34 @@ sub make_buf
 
 my($arg1,$arg2) = ($ARGV[0],$ARGV[1]);
 main($arg1,$arg2);
+
+__END__
+my $cur_pos = 0;
+	my $file_size = -s $file;
+	my $old_buf;
+	my $count = 0;
+	while($file_size - $cur_pos > 1024)
+    {
+		read(IN, $buf, 1024);
+		if($count == 0)
+		{
+			$count++;
+		}
+		else
+		{
+			print OUT $old_buf;
+		}
+		$old_buf = $buf;
+		$cur_pos+=1024;	
+    }
+	if($file_size - $cur_pos < 125)
+	{
+		read(IN, $buf, 125);
+		$old_buf .= $buf;
+		$buf = substr($old_buf, 0, length($old_buf) - 125);
+	}
+	else
+	{
+		read(IN, $buf, $file_size - $cur_pos + 125);
+	}
+	print OUT $buf;
