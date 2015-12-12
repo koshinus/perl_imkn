@@ -6,7 +6,7 @@ sub calc_pi()
 	my $my_pi = 0;
 	my $step_sign = 1;
 	my $i = 1;
-	while(abs($real_pi - $my_pi) > 0.00001)
+	while(abs($real_pi - $my_pi) > 0.00000001)
 	{
 		$my_pi += 4.0/$i * $step_sign;
 		$step_sign *= -1;

@@ -1,5 +1,5 @@
 package c_calc;
-use Inline C;
+use InlineC;
 
 1;
 __END__

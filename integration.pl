@@ -1,4 +1,4 @@
-use Inline C;
+use Inline 'C';
 
 $n = 50000000;
 
