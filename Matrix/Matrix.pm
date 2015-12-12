@@ -9,7 +9,6 @@ sub new
 	my $class = shift;
 	my $matr = shift;
 	my @matrix = @$matr;
-	#print @matrix;
 	my $col_num = @matrix;
 	my $row_num = @{$matrix[0]};
 	for(my $i = 0; $i < $row_num; $i++)
@@ -26,7 +25,6 @@ sub new
 			row_num 	=> $row_num,
 			data 		=> $matr
 		};
-	#print "ok\n";
 	return bless($self, $class);
 }
 
@@ -34,14 +32,12 @@ sub to_string
 {
 	my $self = shift;
 	my @matr = @{$self->{data}};
-	#print "something\n";
 	my $str = "";
 	foreach my $line (@matr)
 	{
 		foreach my $elem (@$line)
 		{
 			$str.="$elem ";
-			#print "$elem\n";
 		}
 		$str.="\n";
 	}
@@ -67,19 +63,12 @@ sub mult
 		}
 		push(@obj3_data, @obj3_row);
 	}
-	#foreach my $i (0..$obj1->{column_num}-1)
-	#for my $i (0..$obj1->{column_num}-1)
 	for (my $i = 0; $i < $obj1->{column_num}; $i++)
 	{
-		#foreach my $j (0..$obj1->{row_num}-1)
-		#for my $j (0..$obj1->{column_num}-1)
 		for (my $j = 0; $j < $obj1->{row_num}; $j++)
 		{
-			#foreach my $k (0..$obj2->{column_num}-1)
-			#for my $k (0..$obj2->{column_num}-1)
 			for (my $k = 0; $k < $obj2->{column_num}; $k++)
 			{
-				#cArr[i][j] += (aArr[i][k] * bArr[k][j]);
 				$obj3_data[$i][$j] += ($obj1_data[$i][$k]*$obj2_data[$k][$j]);
 			}
 		}
@@ -89,3 +78,14 @@ sub mult
 }
 
 1;
+__END__
+				#cArr[i][j] += (aArr[i][k] * bArr[k][j]);
+
+			#foreach my $k (0..$obj2->{column_num}-1)
+			#for my $k (0..$obj2->{column_num}-1)
+			
+		#foreach my $j (0..$obj1->{row_num}-1)
+		#for my $j (0..$obj1->{column_num}-1)
+		
+	#foreach my $i (0..$obj1->{column_num}-1)
+	#for my $i (0..$obj1->{column_num}-1)
