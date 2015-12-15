@@ -6,14 +6,11 @@ use c_calc;
 $start_time_c = [ gettimeofday ];
 $c_calc = c_calc::calc_pi();
 $end_time_c = [ gettimeofday ];
-
 $elapsed_c = tv_interval($start_time,$end_time);
 
 $start_time_perl = [ gettimeofday ];
 $perl_calc = perl_calc::calc_pi();
 $end_time_perl = [ gettimeofday ];
-
-
 $elapsed_perl = tv_interval($start_time,$end_time);
 
 $differences = abs($elapsed_perl - $elapsed_c);

@@ -20,15 +20,11 @@ sub emails_check
 		$hash{$pair[0]} = $pair[1];
 	}
 =cut
-	while(our $line = <FILE>)
+	while(my $line = <FILE>)
 	{
-		#$line =~ /mailto:(\w+)\@(\w+.\w+)\">$1</;
-		$line =~ /mailto:(\w+\@\w+\.\w+)\">(\w+)</;
-		if(not $1 =~ "")
+		if($line =~ /mailto:(\w+\@\w+\.\w+)\">(\w+)</)
 		{
-			#print "$1\@$2->$1";
-			print "$1->$2";
-			print "\n";
+			print "$1->$2\n";
 		}
 	}
 }

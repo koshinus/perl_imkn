@@ -4,7 +4,6 @@ use InlineC;
 1;
 __END__
 
-__C__
 double my_abs(double num)
 {
 	return (num > 0)? num : -num;
