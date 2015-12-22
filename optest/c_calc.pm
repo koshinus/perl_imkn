@@ -1,8 +1,8 @@
 package c_calc;
-use InlineC;
+use Inline 'C';
 
 1;
-__END__
+__DATA__
 
 __C__
 double my_abs(double num)
@@ -21,7 +21,6 @@ double calc_pi()
 		my_pi += 4.0/i * step_sign;
 		step_sign *= -1;
 		i += 2;
-		printf("%lf\n", my_pi);
 	}
 	return my_pi;
 }
